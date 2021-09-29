@@ -7,9 +7,9 @@
 
 # have node/npm installed < 12
 
-# cd three-test-project
-# npm install
-
-Done!
+cd three-test-project
+npm install
 
 ```
+
+Done!
